@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amona22
-- 👀 I’m interested in Python and R
-- 🌱 I’m currently learning ...
+- 👀 I’m Python and R Passionate 
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me ...
 
